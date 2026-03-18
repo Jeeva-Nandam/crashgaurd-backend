@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.pytest_cache/
+.hypothesis/
+
+# Logs and databases
+*.log
+db.sqlite3
+db.sqlite3-journal
+
+# Flask/FastAPI extras
+instance/
+.webassets-cache
+
+# IDEs (VS Code, PyCharm)
+.vscode/
+.idea/
+.spyderproject
+.ropeproject
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Dependency locks (include if using poetry/pipenv; comment out otherwise)
+# poetry.lock
+# Pipfile.lock
+
+__pycache__/
+*.pyc
+node_modules/
+.env
